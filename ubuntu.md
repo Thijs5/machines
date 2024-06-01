@@ -9,5 +9,8 @@
 ## Development
 - Visual Studio Code: `sudo snap install --classic code`
 
+## Productivity
+- [Clipboard history](https://extensions.gnome.org/extension/4839/clipboard-history/)
+
 ## Settings
 - `gsettings set org.gnome.desktop.wm.preferences button-layout 'close,minimize,maximize:'`: Put window controls to the left
