@@ -1,5 +1,8 @@
 # Setup a new ubuntu machine
 
+## Browsers
+- [Chrome](https://www.google.com/intl/en_uk/chrome/?platform=linux)
+
 ## Communication
 - [Signal](https://signal.org/download/linux/)
 
