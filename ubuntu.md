@@ -8,7 +8,7 @@
 
 ## Development
 - Visual Studio Code: `sudo snap install --classic code`
-- [NVM (nodejs)](wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash)
+- NVM (nodejs): ` wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash`
 
 ## Productivity
 - Gnome extensions
