@@ -15,6 +15,7 @@
 - Gnome extensions
   - [Browser connect](sudo apt-get install gnome-browser-connector)
   - [Clipboard history](https://extensions.gnome.org/extension/4839/clipboard-history/)
+- [Nativefier - convert every website to a native app](https://github.com/nativefier/nativefier)
 
 ## Settings
 - `gsettings set org.gnome.desktop.wm.preferences button-layout 'close,minimize,maximize:'`: Put window controls to the left
