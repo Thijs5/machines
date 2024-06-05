@@ -12,6 +12,7 @@
 - [Jetbrains toolbox](https://www.jetbrains.com/toolbox-app/)
 
 ## Productivity
+- [ASUS ROG Software](https://asus-linux.org/guides/fedora-guide/)
 - Gnome extensions
   - [Browser connect](sudo apt-get install gnome-browser-connector)
   - [Clipboard history](https://extensions.gnome.org/extension/4839/clipboard-history/)
