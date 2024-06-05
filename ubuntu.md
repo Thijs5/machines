@@ -8,6 +8,7 @@
 - [Signal](https://signal.org/download/linux/)
 
 ## Development
+- dotnet: `sudo dnf install dotnet-sdk-8.0`
 - Visual Studio Code: `sudo snap install --classic code`
 - NVM (nodejs): ` wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash`
 - [Jetbrains toolbox](https://www.jetbrains.com/toolbox-app/)
