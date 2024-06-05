@@ -2,6 +2,7 @@
 
 ## Browsers
 - [Chrome](https://www.google.com/intl/en_uk/chrome/?platform=linux)
+- [Epiphany](https://src.fedoraproject.org/rpms/epiphany) for native web apps
 
 ## Communication
 - [Signal](https://signal.org/download/linux/)
