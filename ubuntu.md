@@ -14,8 +14,8 @@
 ## Productivity
 - [ASUS ROG Software](https://asus-linux.org/guides/fedora-guide/)
 - Gnome extensions
-  - [Browser connect](sudo apt-get install gnome-browser-connector)
   - [Clipboard history](https://extensions.gnome.org/extension/4839/clipboard-history/)
+  - Gnome Tweaks: `sudo dnf install gnome-tweaks`
 - [Nativefier - convert every website to a native app](https://github.com/nativefier/nativefier)
 
 ## Settings
