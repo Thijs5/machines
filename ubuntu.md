@@ -21,7 +21,9 @@
 - Gnome extensions
   - [Clipboard history](https://extensions.gnome.org/extension/4839/clipboard-history/)
   - Gnome Tweaks: `sudo dnf install gnome-tweaks`
-- [Nativefier - convert every website to a native app](https://github.com/nativefier/nativefier)
+- Fonts
+  - [agave](https://www.programmingfonts.org/#agave)
+  - [cascadia-code](https://www.programmingfonts.org/#cascadia-code)
 
 ## Settings
 - `gsettings set org.gnome.desktop.wm.preferences button-layout 'close,minimize,maximize:'`: Put window controls to the left
