@@ -9,6 +9,8 @@
 
 ## Development
 - dotnet: `sudo dnf install dotnet-sdk-8.0`
+- terminal
+  - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) 
 - Docker
   - [Docker Engine](https://docs.docker.com/engine/install/fedora/)
   - [Docker Desktop](https://docs.docker.com/desktop/install/fedora/) 
