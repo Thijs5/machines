@@ -3,6 +3,7 @@
 ## List
 
 | Name | Platform | Use | Download |
+| ---- | -------- | --- | -------- |
 | Files | Windows | File explorer (file tagging, git integration, ...) | [Download](https://files.community/) |
 | Prefix | Multi | Log HTTP class, check Entity Framework | [Download](https://stackify.com/prefix/) |
 | Lunacy | Multi | Figma alternative | [Download](https://lunacy.docs.icons8.com) |
