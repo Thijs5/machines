@@ -8,7 +8,7 @@
 | Prefix | Multi | Log HTTP class, check Entity Framework | [Download](https://stackify.com/prefix/) |
 | Lunacy | Multi | Figma alternative | [Download](https://lunacy.docs.icons8.com) |
 | Fork | Multi | Git client GUI | [Download](https://git-fork.com) |
-| RosylnPad | Multi | C# Playground | [Download](https://roslynpad.net/) |
+| RoslynPad | Multi | C# Playground | [Download](https://roslynpad.net/) |
 
 ## Git QOL improvements
 
