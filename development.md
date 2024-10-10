@@ -9,6 +9,7 @@
 | Lunacy | Multi | Figma alternative | [Download](https://lunacy.docs.icons8.com) |
 | Fork | Multi | Git client GUI | [Download](https://git-fork.com) |
 | RoslynPad | Multi | C# Playground | [Download](https://roslynpad.net/) |
+| Obsidian | Multi | Notes | [Download](https://obsidian.md/) |
 
 ## Git QOL improvements
 
