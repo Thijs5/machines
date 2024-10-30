@@ -10,6 +10,7 @@
 | Fork | Multi | Git client GUI | [Download](https://git-fork.com) |
 | RoslynPad | Multi | C# Playground | [Download](https://roslynpad.net/) |
 | Obsidian | Multi | Notes | [Download](https://obsidian.md/) |
+| Bruno | Multi | Postman/Insomnia alternative | [Download](https://www.usebruno.com) |
 
 ## Git QOL improvements
 
